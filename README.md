@@ -3,6 +3,8 @@ Links to resources on different aspects of founding, operating and growing a sof
 
 ### [Value Pricing](https://en.wikipedia.org/wiki/Value-based_pricing)
 
++ [Value-Based Pricing: A Beginner’s Guide](http://thinkapps.com/blog/post-launch/value-based-pricing-guide/) by Cristian Candia from [Devecoop](http://devecoop.com/)
+
 + [A No Bull, Straightforward Guide to Value Based Pricing Strategy](http://www.priceintelligently.com/blog/bid/179505/A-No-Bull-Straightforward-Guide-to-Value-Based-Pricing-Strategy)
 
 + [Value Pricing and Software Development](http://www.weshigbee.com/value-pricing-and-software-development-2/)
@@ -42,6 +44,7 @@ Links to resources on different aspects of founding, operating and growing a sof
 ### Other companies' websites for inspiration
 
 + [The Buzz](http://thebuzz.webflow.io/)
++ [10 Web Development Companies You Want To Work With](http://www.inc.com/ed-zitron/10-web-development-companies-you-want-to-work-with.html)
 + [Silicon Valley Software Group](https://svsg.co/)
 + [Citrusbyte](https://citrusbyte.com/our-approach)
 
@@ -71,3 +74,19 @@ Links to resources on different aspects of founding, operating and growing a sof
 + [Should Agile be Used to Run a Small Web Development Agency?](https://www.quora.com/Should-Agile-be-Used-to-Run-a-Small-Web-Development-Agency)
 
 + [The Step-By-Step Guide to Transitioning Your Agency to Agile Web Design](https://blog.hubspot.com/agency/transitioning-agency-agile-web-design)
+
+### [Clients' Pain Points](http://pointsandfigures.com/2012/04/27/whats-a-pain-point/)
+
++ [How to Identify Your Customer’s Pain Points](http://copytactics.com/customers-pain-points)
+
++ [The Devil Is In The Dev Shop](http://www.forbes.com/sites/beaarthur/2016/07/07/the-devil-is-in-the-dev-shop/#f15ab2553aec)
+
++ [5 Questions to Ask Before Hiring a Dev Shop](https://www.kinvey.com/5-questions-to-ask-before-hiring-a-dev-shop/)
+
++ [9 red flags when working with a small business marketing agency](https://www.lucidpress.com/blog/2015/10/30/9-red-flags-
+when-working-with-a-small-business-marketing-agency/)
+
++ [When You Should Hire a Dev Shop (other than “never”)](http://bhargreaves.com/2010/03/hire-dev-shop-other-never/)
+
++ [Is that Dev Shop Really Just a Freelance Broker?](http://sparkdigital.com/news/dev-shop-really-just-freelance-broker-0)
+
