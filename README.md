@@ -38,3 +38,36 @@ Links to resources on different aspects of founding, operating and growing a sof
 + [The Ultimate Guide to Freelancing](https://due.com/freelancer/#estimates-rates)
 
 + [Justifying Higher Rates With Value-Based Pricing](https://doubleyourfreelancing.com/justifying-higher-rates-with-value-based-pricing/)
+
+### Other companies' websites for inspiration
+
++ [The Buzz](http://thebuzz.webflow.io/)
++ [Silicon Valley Software Group](https://svsg.co/)
++ [Citrusbyte](https://citrusbyte.com/our-approach)
+
+### [Positioning](https://en.wikipedia.org/wiki/Positioning_(marketing))
+
++ [Philip Morgan Consulting - The Positioning Manual For Technical Firms](https://philipmorganconsulting.com/the-positioning-manual-for-technical-firms/)
++ [Philip Morgan Consulting - Blog post on positioning](https://philipmorganconsulting.com/a-natural-calmness-spreads-through-your-body/)
+
+### [Niche market](https://en.wikipedia.org/wiki/Niche_market)
+
++ [How to Choose Your Specialist Freelance or Entrepreneur Niche and Become Remarkable](https://www.interaction-design.org/literature/article/how-to-choose-your-specialist-freelance-or-entrepreneur-niche-and-become-remarkable)
+
++ [3 Steps to Narrow Your Target Market to Get the Best Results](http://www.hatchbuck.com/blog/3-steps-narrow-target-market-get-best-results/)
+
+### Growth
+
++ [The Lean Startup](http://theleanstartup.com/)
+
++ [6 tips for growing your web design business](https://wpcurve.com/6-tips-for-growing-your-web-design-business/)
+
++ [23 Clever Ways to Grow & Scale Your Digital Agency](https://agencyanalytics.com/blog/how-to-grow-digital-agency)
+
++ [The Myth-Busting Guide  to Agency Growth and Scale - How to Succeed in Web Design and Development](https://pantheon.io/7-myths-guide-to-agency-growth)
+
+### Transitioning to Agile methodologies
+
++ [Should Agile be Used to Run a Small Web Development Agency?](https://www.quora.com/Should-Agile-be-Used-to-Run-a-Small-Web-Development-Agency)
+
++ [The Step-By-Step Guide to Transitioning Your Agency to Agile Web Design](https://blog.hubspot.com/agency/transitioning-agency-agile-web-design)
